@@ -1,8 +1,7 @@
 # Website-clone-coding
 
-<h1>Home , Services , Work, Contact 로 이루어진 멀티페이지 웹사이트입니다.</h1>
-![potfolio1](https://user-images.githubusercontent.com/73012145/123037268-53d2be80-d429-11eb-90cc-defd1677a059.png)
-
+<h2>Home , Services , Work, Contact 로 이루어진 멀티페이지 웹사이트입니다.</h2>
+![potfolio1](https://user-images.githubusercontent.com/73012145/123038784-03109500-d42c-11eb-80f1-8819538f0036.png)
 
 * Home 페이지에서는 회사의 목적과, 하는 일에 대해서 작성할수있는 공간이 있고, 그 옆에는 사진을 비치하였습니다.![스크린샷 2021-06-23 오후 1 50 05](https://user-images.githubusercontent.com/73012145/123037656-f723d380-d429-11eb-9bbb-bfce186104a9.png)
 * Service 화면에는 회사에서 제공하는 서비스와 그에 따른 추가 설명들을 작성할수있는 아티클을 최신 Grid 를 이용하여서 나타내었습니다.![스크린샷 2021-06-23 오후 1 53 01](https://user-images.githubusercontent.com/73012145/123037860-600b4b80-d42a-11eb-9a73-da3f8a5c7480.png)
